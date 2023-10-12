@@ -1,0 +1,32 @@
+const gridTemplateSmallScreen = `
+  "a"
+  "a"
+  "a"
+  "b"
+  "b"
+  "b"
+  "c"
+  "c"
+  "c"
+  "d"
+  "d"
+  "d"
+  "e"
+  "e"
+  "f"
+  "f"
+  "f"
+  "g"
+  "g"
+  "g"
+  "h"
+  "h"
+  "h"
+  "i"
+  "i"
+  "j"
+  "j"
+
+`;
+
+export default gridTemplateSmallScreen;
